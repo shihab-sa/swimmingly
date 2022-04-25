@@ -1,0 +1,16 @@
+.hero{
+    background-color: rgba(0,0,0,.5);
+    color: white;
+    height: 80vh;
+    width: 100%;
+    position: relative;
+    margin-bottom: 4rem;
+}
+
+.hero:before{
+   content: "";
+   background: url();
+}
+
+
+/* end of  32 */
