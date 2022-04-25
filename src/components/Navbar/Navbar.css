@@ -50,7 +50,7 @@
         /* background: rgba(255,255,255,.98); */
         /* background: rgb(173, 216, 230); */
         background: url('https://images.unsplash.com/photo-1532323544230-7191fd51bc1b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80') no-repeat center center/cover;
-        
+        position: fixed;
         transition: 0.4s ease-in-out;
         z-index: 10;
     }
